@@ -18,7 +18,7 @@ It showcases my projects, skills, and experience as a **Frontend Engineer focuse
 - TypeScript
 - React Router
 - Context API
-- Tailwind CSS / MUI (حسب استخدامك)
+- Tailwind CSS / MUI
 - Vercel (Deployment)
 
 ---
